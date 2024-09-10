@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35219.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TCPDemo", "TCPDemo\TCPDemo.csproj", "{30B3072A-40F6-439E-A6C2-B654CA96181D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TCPDemoTests", "TCPDemoTests\TCPDemoTests.csproj", "{A91341F1-68A7-48CA-9C76-A6D51BBE0395}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{30B3072A-40F6-439E-A6C2-B654CA96181D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30B3072A-40F6-439E-A6C2-B654CA96181D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30B3072A-40F6-439E-A6C2-B654CA96181D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30B3072A-40F6-439E-A6C2-B654CA96181D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A91341F1-68A7-48CA-9C76-A6D51BBE0395}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A91341F1-68A7-48CA-9C76-A6D51BBE0395}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A91341F1-68A7-48CA-9C76-A6D51BBE0395}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A91341F1-68A7-48CA-9C76-A6D51BBE0395}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5174B0EF-A7E9-476E-B387-A931A8B63A69}
+	EndGlobalSection
+EndGlobal
